@@ -2,4 +2,5 @@
 
 script for roblox for fulbright
 
-loadstring(game:HttpGet(''))()
+script -
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Cubicplay471lm/fuulbrighTt/refs/heads/main/fuulbright.lua'))()
